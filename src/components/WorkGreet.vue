@@ -10,7 +10,7 @@
             </div>
             <div class="col-lg-7 col-sm-12 m-auto">
                 <h3 class="fw-semibold">
-                    Hi! I'm Asyraf, a Front End Web Developer currently shaping the future by fill the <a href="https://www.linkedin.com/in/asyrafbilal-fadhila-bhinar-jaya-496758222/" target="_blank" rel="noopener noreferrer"><span class="text-primary">LinkedIn</span></a>.
+                    Hi! I'm Asyraf, a <span class="text-primary">Front End Web Developer</span>. Currently is studying Software Engineering in Telkom University.
                 </h3>
             </div>
             <div class="col-1">
