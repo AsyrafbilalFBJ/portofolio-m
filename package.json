@@ -1,7 +1,7 @@
 {
   "name": "portofolio-m",
   "version": "0.1.0",
-  "homepage": "https://<username>.github.io/portofolio-m/",
+  "homepage": "https://asyrafbilalfbj.github.io/portofolio-m/",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
