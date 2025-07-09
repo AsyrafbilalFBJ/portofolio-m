@@ -10,8 +10,15 @@
             </div>
             <div class="col-lg-7 col-sm-12 m-auto">
                 <h3 class="fw-semibold">
-                    Hi! I'm Asyraf, a <span class="text-primary">Front End Web Developer</span>. Currently is studying Software Engineering in Telkom University.
+                    Hi! I'm Asyraf, a <span class="text-primary">Visual Interface Crafter</span>.
+                    Passionate in Web Development.
                 </h3>
+                <h5>
+                    ➡ 
+                    <a href="https://drive.google.com/file/d/1Ey45XMkW6c7YTK__DZQMxXMIlfGsSGdF/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                        Curriculum Vitae
+                    </a>
+                </h5>
             </div>
             <div class="col-1">
             </div>

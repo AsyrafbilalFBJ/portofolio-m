@@ -11,23 +11,23 @@
                 Asyrafbilal Fadhila Bhinar Jaya
             </h3>
             <h5>
-                Front End Web Developer
+                Frontend Web Developer
             </h5>
             <p>
-                5th semester student of Software Engineering from Telkom University with internship experience as a Web
-                Developer. Trained in building websites using frameworks and libraries such as Laravel, Vue.js, React.js and
-                others. Currently pursuing the field of Front End Web Development. Dedicated to become a Senior Front End
-                Web Developer.
+                A fresh graduated of Bachelor Degree of Computer Science from Telkom University. I am passionate about combining theoretical knowledge with hands-on experience to contribute to the ever-growing field of technology. Proficient in developing websites using React, Vue, Node, Laravel, MySQL, Firebase and Google Cloud. With a solid foundation in software development complemented by academic knowledge learned, I bring a fresh perspective and a desire to learn new technologies to every project I undertake.
             </p>
             <h5>
                 Experience
             </h5>
             <ul>
                 <li>
-                    Project-Based Intern : Front End Developer Virtual Internship Experience Core Initiative
+                    Bank Rakyat Indonesia(BRI) - Frontend Developer
                 </li>
                 <li>
-                    Software Developer at Telkomsel Surakarta as Internship
+                    Bangkit Academy - Cloud Computing Mentor
+                </li>
+                <li>
+                    Feelsbox - Frontend Developer
                 </li>
             </ul>
             <h5>
@@ -35,12 +35,17 @@
             </h5>
             <ul>
                 <li>
-                    SMK Telkom Malang (Rekayasa Perangkat Lunak)
-                </li>
-                <li>
                     Universitas Telkom (S1 Rekayasa Perangkat Lunak)
                 </li>
+                <li>
+                    SMK Telkom Malang (Rekayasa Perangkat Lunak)
+                </li>
             </ul>
+            <a href="https://drive.google.com/file/d/1Ey45XMkW6c7YTK__DZQMxXMIlfGsSGdF/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                <h5>
+                    Curriculum Vitae
+                </h5>
+            </a>
         </div>
         <div class="col-2">
 
