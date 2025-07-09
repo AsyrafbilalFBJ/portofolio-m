@@ -14,7 +14,6 @@
                     Passionate in Web Development.
                 </h3>
                 <h5>
-                    ➡ 
                     <a href="https://drive.google.com/file/d/1Ey45XMkW6c7YTK__DZQMxXMIlfGsSGdF/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                         Curriculum Vitae
                     </a>
