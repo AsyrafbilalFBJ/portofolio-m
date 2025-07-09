@@ -29,7 +29,7 @@ const routes = [
 ]
 
 const router = createRouter({
-    history: createWebHistory(),
+    history: createWebHistory('/portofolio-m/'),
     routes,
     scrollBehavior() {
         // always scroll to top
