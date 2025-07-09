@@ -22,12 +22,12 @@
             <div class="menu">
                 <ul class="m-0 p-0">
                     <li class="w-100 p-2 m1">
-                        <router-link to="/" exact class="text-decoration-none text-center txt-black w-100" v-on:click="close">
+                        <router-link to="/portofolio-m/" exact class="text-decoration-none text-center txt-black w-100" v-on:click="close">
                             <p class="text-uppercase fw-normal m-auto">Work</p>
                         </router-link>
                     </li>
                     <li class="w-100 p-2">
-                        <router-link to="/about" exact class="text-decoration-none text-center txt-black w-100" v-on:click="close">
+                        <router-link to="/portofolio-m/about" exact class="text-decoration-none text-center txt-black w-100" v-on:click="close">
                             <p class="text-uppercase fw-normal m-auto">About</p>
                         </router-link>
                     </li>
